@@ -1,0 +1,11 @@
+N:\AnalizerProject\Library\AnalizerProjectLibrary\obj\Debug\net8.0\AnalizerProjectLibrary.GeneratedMSBuildEditorConfig.editorconfig
+N:\AnalizerProject\Library\AnalizerProjectLibrary\obj\Debug\net8.0\AnalizerProjectLibrary.AssemblyInfoInputs.cache
+N:\AnalizerProject\Library\AnalizerProjectLibrary\obj\Debug\net8.0\AnalizerProjectLibrary.AssemblyInfo.cs
+N:\AnalizerProject\Library\AnalizerProjectLibrary\obj\Debug\net8.0\AnalizerProjectLibrary.csproj.CoreCompileInputs.cache
+N:\AnalizerProject\Library\AnalizerProjectLibrary\bin\Debug\net8.0\AnalizerProjectLibrary.deps.json
+N:\AnalizerProject\Library\AnalizerProjectLibrary\bin\Debug\net8.0\AnalizerProjectLibrary.dll
+N:\AnalizerProject\Library\AnalizerProjectLibrary\bin\Debug\net8.0\AnalizerProjectLibrary.pdb
+N:\AnalizerProject\Library\AnalizerProjectLibrary\obj\Debug\net8.0\AnalizerProjectLibrary.dll
+N:\AnalizerProject\Library\AnalizerProjectLibrary\obj\Debug\net8.0\refint\AnalizerProjectLibrary.dll
+N:\AnalizerProject\Library\AnalizerProjectLibrary\obj\Debug\net8.0\AnalizerProjectLibrary.pdb
+N:\AnalizerProject\Library\AnalizerProjectLibrary\obj\Debug\net8.0\ref\AnalizerProjectLibrary.dll
