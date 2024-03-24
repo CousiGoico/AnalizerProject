@@ -7,27 +7,14 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "AnalizerProject/1.0.0": {
-        "dependencies": {
-          "AnalizerProjectLibrary": "1.0.0"
-        },
         "runtime": {
           "AnalizerProject.dll": {}
-        }
-      },
-      "AnalizerProjectLibrary/1.0.0": {
-        "runtime": {
-          "AnalizerProjectLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "AnalizerProject/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "AnalizerProjectLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
