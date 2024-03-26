@@ -3,6 +3,8 @@ using System;
 using System.Reflection;
 // using Library.AnalizerProjectLibrary.Analizer;
 // using Library.AnalizerProjectLibrary.Entities;
+using Library.AnalizerProjectLibrary;
+using Library.AnalizerProjectLibrary.Output;
 
 namespace AnalizarProject.Front {
 
@@ -10,7 +12,17 @@ namespace AnalizarProject.Front {
     {
         static void Main(string[] args)
         {
+            //LoadAssembly();
 
+            CraeteDocument();
+        }
+
+        private static void CraeteDocument() {
+            WordOutput.CreateDocument();
+        }
+
+        private static void LoadAssembly() {
+            
             // Load an assembly (replace with actual assembly file)
             Assembly externalAssembly = Assembly.LoadFile(@"N:\TrainingWorkplaceApp\slnTrainingWorkplace\TrainingWorkplace.Api\bin\Debug\net6.0\TrainingWorkplace.Api.dll");
             //Assembly externalAssembly2 = Assembly.LoadFrom(@"N:\InvisibleFriend\InvisibleFriendAPI\bin\Debug\net6.0\InvisibleFriendAPI.dll");

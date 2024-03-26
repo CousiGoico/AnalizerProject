@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "6XgKPjk8xkRLE2opj+1qbcSHtScXBN2rTtr0TFzKdqpje5/w+bV+CVmPaTzAwvBvBq15dbaBCkm5J83ub0uKHg==",
+  "dgSpecHash": "uCXTujQbChQfu0cm4ayv4dGhk59xrk3+FbflNmeuzsgwChEXJw+lsKqdaI9+qViJnRSOwDYl/JRLbUi5QYBLAA==",
   "success": true,
   "projectFilePath": "n:\\AnalizerProject\\Front\\AnalizerProject.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\javier\\.nuget\\packages\\dotnetcore.npoi\\1.2.3\\dotnetcore.npoi.1.2.3.nupkg.sha512",
+    "C:\\Users\\javier\\.nuget\\packages\\dotnetcore.npoi.core\\1.2.3\\dotnetcore.npoi.core.1.2.3.nupkg.sha512",
+    "C:\\Users\\javier\\.nuget\\packages\\dotnetcore.npoi.openxml4net\\1.2.3\\dotnetcore.npoi.openxml4net.1.2.3.nupkg.sha512",
+    "C:\\Users\\javier\\.nuget\\packages\\dotnetcore.npoi.openxmlformats\\1.2.3\\dotnetcore.npoi.openxmlformats.1.2.3.nupkg.sha512",
+    "C:\\Users\\javier\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\javier\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\javier\\.nuget\\packages\\sharpziplib\\1.2.0\\sharpziplib.1.2.0.nupkg.sha512",
+    "C:\\Users\\javier\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\javier\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\javier\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

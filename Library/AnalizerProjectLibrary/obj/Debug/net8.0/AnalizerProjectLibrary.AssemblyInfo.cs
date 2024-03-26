@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnalizerProjectLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e96d8c46aa77b97da4c87a14c8c23fb2acf07d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c5c4bcdb2e3266539f2e670eed1cdeed89fc063")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnalizerProjectLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnalizerProjectLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

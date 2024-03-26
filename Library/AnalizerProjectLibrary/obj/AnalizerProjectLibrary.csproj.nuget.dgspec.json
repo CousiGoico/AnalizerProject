@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "N:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\AnalizerProjectLibrary.csproj": {}
+    "n:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\AnalizerProjectLibrary.csproj": {}
   },
   "projects": {
-    "N:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\AnalizerProjectLibrary.csproj": {
+    "n:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\AnalizerProjectLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "N:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\AnalizerProjectLibrary.csproj",
+        "projectUniqueName": "n:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\AnalizerProjectLibrary.csproj",
         "projectName": "AnalizerProjectLibrary",
-        "projectPath": "N:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\AnalizerProjectLibrary.csproj",
+        "projectPath": "n:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\AnalizerProjectLibrary.csproj",
         "packagesPath": "C:\\Users\\javier\\.nuget\\packages\\",
-        "outputPath": "N:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\obj\\",
+        "outputPath": "n:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\javier\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\javier\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "DotNetCore.NPOI": {
+              "target": "Package",
+              "version": "[1.2.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
