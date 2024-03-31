@@ -17,14 +17,4 @@ N:\AnalizerProject\Front\bin\Debug\net8.0\AnalizerProjectLibrary.dll
 N:\AnalizerProject\Front\bin\Debug\net8.0\AnalizerProjectLibrary.pdb
 N:\AnalizerProject\Front\obj\Debug\net8.0\AnalizerProject.csproj.AssemblyReference.cache
 N:\AnalizerProject\Front\obj\Debug\net8.0\Analizer.56696A40.Up2Date
-n:\AnalizerProject\Front\bin\Debug\net8.0\NOTICE.TXT
-n:\AnalizerProject\Front\bin\Debug\net8.0\NPOI.OOXML.dll
-n:\AnalizerProject\Front\bin\Debug\net8.0\NPOI.dll
-n:\AnalizerProject\Front\bin\Debug\net8.0\NPOI.OpenXml4Net.dll
-n:\AnalizerProject\Front\bin\Debug\net8.0\NPOI.OpenXmlFormats.dll
-n:\AnalizerProject\Front\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-n:\AnalizerProject\Front\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
-n:\AnalizerProject\Front\bin\Debug\net8.0\System.Drawing.Common.dll
-n:\AnalizerProject\Front\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
-n:\AnalizerProject\Front\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
-n:\AnalizerProject\Front\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+N:\AnalizerProject\Front\bin\Debug\net8.0\Microsoft.Office.Interop.Word.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "n:\\AnalizerProject\\Front\\AnalizerProject.csproj": {}
+    "N:\\AnalizerProject\\Front\\AnalizerProject.csproj": {}
   },
   "projects": {
-    "n:\\AnalizerProject\\Front\\AnalizerProject.csproj": {
+    "N:\\AnalizerProject\\Front\\AnalizerProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "n:\\AnalizerProject\\Front\\AnalizerProject.csproj",
+        "projectUniqueName": "N:\\AnalizerProject\\Front\\AnalizerProject.csproj",
         "projectName": "AnalizerProject",
-        "projectPath": "n:\\AnalizerProject\\Front\\AnalizerProject.csproj",
+        "projectPath": "N:\\AnalizerProject\\Front\\AnalizerProject.csproj",
         "packagesPath": "C:\\Users\\javier\\.nuget\\packages\\",
-        "outputPath": "n:\\AnalizerProject\\Front\\obj\\",
+        "outputPath": "N:\\AnalizerProject\\Front\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\javier\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "n:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\AnalizerProjectLibrary.csproj": {
-                "projectPath": "n:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\AnalizerProjectLibrary.csproj"
+              "N:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\AnalizerProjectLIbrary.csproj": {
+                "projectPath": "N:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\AnalizerProjectLIbrary.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "n:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\AnalizerProjectLibrary.csproj": {
+    "N:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\AnalizerProjectLIbrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "n:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\AnalizerProjectLibrary.csproj",
-        "projectName": "AnalizerProjectLibrary",
-        "projectPath": "n:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\AnalizerProjectLibrary.csproj",
+        "projectUniqueName": "N:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\AnalizerProjectLIbrary.csproj",
+        "projectName": "AnalizerProjectLIbrary",
+        "projectPath": "N:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\AnalizerProjectLIbrary.csproj",
         "packagesPath": "C:\\Users\\javier\\.nuget\\packages\\",
-        "outputPath": "n:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\obj\\",
+        "outputPath": "N:\\AnalizerProject\\Library\\AnalizerProjectLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\javier\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -109,9 +109,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "DotNetCore.NPOI": {
+            "Microsoft.Office.Interop.Word": {
               "target": "Package",
-              "version": "[1.2.3, )"
+              "version": "[15.0.4797.1004, )"
             }
           },
           "imports": [

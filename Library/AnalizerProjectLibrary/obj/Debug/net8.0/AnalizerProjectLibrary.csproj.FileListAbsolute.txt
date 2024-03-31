@@ -11,4 +11,3 @@ N:\AnalizerProject\Library\AnalizerProjectLibrary\obj\Debug\net8.0\refint\Analiz
 N:\AnalizerProject\Library\AnalizerProjectLibrary\obj\Debug\net8.0\AnalizerProjectLibrary.pdb
 N:\AnalizerProject\Library\AnalizerProjectLibrary\obj\Debug\net8.0\ref\AnalizerProjectLibrary.dll
 N:\AnalizerProject\Library\AnalizerProjectLibrary\obj\Debug\net8.0\AnalizerProjectLibrary.csproj.AssemblyReference.cache
-N:\AnalizerProject\Library\AnalizerProjectLibrary\bin\Debug\net8.0\NOTICE.TXT
